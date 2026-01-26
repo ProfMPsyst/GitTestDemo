@@ -27,7 +27,8 @@ public class HelloTest {
     }
     @Test
     public void testaddNumber(){
-
+        Hello hello = new Hello();
+        assertEquals(5,hello.addNumbers(3,2));
         
     }
 }

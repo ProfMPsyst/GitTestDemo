@@ -25,5 +25,10 @@ public class HelloTest {
         Hello hello = new Hello();
         assertEquals("Hello World!!!",hello.sayHello());
     }
-    
+    @Test
+    public void testaddNumber(){
+
+        
+    }
 }
+

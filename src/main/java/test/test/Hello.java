@@ -7,7 +7,7 @@ package test.test;
  */
 public class Hello {
     public String sayHello(){
-        return "Hello World!!!";
+        return "Hello World";
     }
 
     public double addNumbers(double a, double b){
